@@ -7,5 +7,7 @@
 # How2
 
 <li>First change the URL inside the file</li>
-<li><code>chmod +x mongo02.py</code></li>
-<li><code>./mon02.py</code></li>
+<li>Then set the file executable</li>
+<code>chmod +x mongo02.py</code>
+<li>Use it</li>
+<code>./mon02.py</code>
