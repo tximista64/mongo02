@@ -7,5 +7,5 @@
 # How2
 
 <li>First change the URL inside the file</li>
-<li>'''bash chmod +x mongo02.py'''</li>
-<li>'''bash./mon02.py'''</li>
+<li><code>chmod +x mongo02.py</code></li>
+<li><code>bash./mon02.py</code></li>
