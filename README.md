@@ -2,8 +2,7 @@
 
 <h3>Solving mongo02 from pentesterlab essential badge</h3>
 
-![image](https://github.com/tximista64/mongo02/blob/main/mongo02.jpeg)
-
+<img src="https://github.com/tximista64/mongo02/blob/main/mongo.png" style="height: 1000px; width: auto;" />
 # How2
 
 <li>First change the URL inside the file</li>
